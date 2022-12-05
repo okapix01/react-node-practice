@@ -1,0 +1,19 @@
+{
+  "name": "react-node-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "cd frontend && npm ci && npm run build && cd ../backend && npm ci && npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/okapix01/react-node-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/okapix01/react-node-practice/issues"
+  },
+  "homepage": "https://github.com/okapix01/react-node-practice#readme"
+}
